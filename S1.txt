@@ -1,0 +1,441 @@
+Identifier	d13C	d15N	Site	%N	%C	C_N_ratio	Category	Category2	P	Type
+13361261	-26.82678437	4.630031832	trebokov	0.16	1.59	10.02	FIELDS	A	319.7657795	soil samples
+13381263	-26.50129399	4.206119079	trebokov	0.15	1.44	9.58	FIELDS	A	354.2941378	soil samples
+13341263	-26.89514755	4.848921361	trebokov	0.15	1.45	9.49	FIELDS	A	252.8664092	soil samples
+13321265	-27.14207128	4.655783541	trebokov	0.16	1.59	10.13	FIELDS	A	302.6141821	soil samples
+12461166	-25.50849733	4.331906275	trebokov	0.12	1.67	13.95	COURT	A	505.8231293	soil samples
+12461165	-25.86969982	5.586806878	trebokov	0.13	1.55	11.94	COURT	A	365.4642623	soil samples
+12441167	-24.85853693	1.60321554	trebokov	0.73	13.49	18.60	COURT	A	1073	soil samples
+12431169	-26.42986977	4.704315609	trebokov	0.17	1.70	10.26	COURT	A	550.8888136	soil samples
+12431164	-25.15647796	5.038097379	trebokov	0.09	1.44	16.51	COURT	A	284	soil samples
+12421164	-25.94622577	5.314433029	trebokov	0.11	1.58	13.88	COURT	A	497.2677408	soil samples
+12411170	-26.13601012	3.770320922	trebokov	0.16	2.02	12.28	COURT	A	313.1027338	soil samples
+12401171	-25.93398162	5.45606743	trebokov	0.23	2.98	12.90	COURT	A	452.2756463	soil samples
+12391171	-26.29722479	2.940323523	trebokov	0.43	3.08	7.09	COURT	A	463.2642177	soil samples
+12391167	-26.3727304	4.420056356	trebokov	0.10	1.28	12.95	COURT	A	473.9039456	soil samples
+12381172	-26.03091449	3.965439642	trebokov	0.19	2.49	12.81	COURT	A	636.6107955	soil samples
+12381167	-26.09077479	4.275450604	trebokov	0.18	2.31	13.13	COURT	A	406.5771429	soil samples
+12381166	-26.33191656	1.262500617	trebokov	0.09	1.20	13.58	COURT	A	328.4686885	soil samples
+12371169	-26.32375379	3.34838907	trebokov	0.22	3.00	13.47	COURT	A	496.7603802	soil samples
+12361174	-26.18192569	4.916271985	trebokov	0.23	2.72	11.73	MEDIEVAL FIELD	A	347.0993197	soil samples
+12361168	-26.28702133	2.73827165	trebokov	0.24	3.42	13.97	COURT	A	264.9783439	soil samples
+12351174	-25.82684529	5.561055168	trebokov	0.20	2.29	11.46	MEDIEVAL FIELD	A	385.0695876	soil samples
+12351173	-26.19008846	5.800744155	trebokov	0.21	2.57	12.19	MEDIEVAL FIELD	A	271	soil samples
+12331170	-26.38293386	6.161268085	trebokov	0.19	3.40	18.13	MEDIEVAL FIELD	A	337.099124	soil samples
+12331169	-25.82072321	5.765087942	trebokov	0.09	1.08	11.71	MEDIEVAL FIELD	A	571.0581516	soil samples
+12321191	-24.97179534	4.427979959	trebokov	0.11	1.60	14.07	MEDIEVAL VILLAGE	A	325.7694874	soil samples
+12321190	-25.12484724	5.056420711	trebokov	0.19	3.12	16.78	MEDIEVAL VILLAGE	A	229.6764852	soil samples
+12321189	-25.75542107	4.733038669	trebokov	0.09	1.20	12.77	MEDIEVAL VILLAGE	A	279.6031746	soil samples
+12321170	-26.46660223	6.062223049	trebokov	0.08	0.97	12.14	MEDIEVAL FIELD	A	328.3485477	soil samples
+12321169	-25.87990328	2.068727208	trebokov	0.18	3.50	19.81	MEDIEVAL FIELD	A	534.199247	soil samples
+12311176	-25.28300087	4.408170952	trebokov	0.14	2.41	16.92	MEDIEVAL FIELD	A	502.2353249	soil samples
+12311175	-26.28600099	6.224656907	trebokov	0.10	1.36	13.73	MEDIEVAL FIELD	A	515.8106611	soil samples
+12301175	-26.67985454	4.085284136	trebokov	0.17	2.74	16.40	MEDIEVAL FIELD	A	483.6666667	soil samples
+12261171	-25.63910162	5.348108341	trebokov	0.08	1.28	15.77	MEDIEVAL FIELD	A	304.6134021	soil samples
+12261170	-24.70446469	4.09716954	trebokov	0.06	0.92	15.91	MEDIEVAL FIELD	A	325.5214385	soil samples
+12261169	-26.24314645	2.566923738	trebokov	0.09	1.60	18.83	MEDIEVAL FIELD	A	399.5398062	soil samples
+12221189	-25.15443728	0.258679181	trebokov	0.07	0.78	11.07	MEDIEVAL VILLAGE	A	209.8560091	soil samples
+12211189	-26.179885	4.73402912	trebokov	0.12	1.82	14.64	MEDIEVAL VILLAGE	A	289.922293	soil samples
+12211188	-25.39319824	4.848921361	trebokov	0.14	1.79	12.59	MEDIEVAL VILLAGE	A	270.1489203	soil samples
+12201182	-25.91663573	2.820479029	trebokov	0.10	1.86	18.24	MEDIEVAL VILLAGE	A	442.9668079	soil samples
+12191182	-25.89622881	5.363955547	trebokov	0.10	1.51	15.65	MEDIEVAL VILLAGE	A	427.4673729	soil samples
+12191181	-26.01764999	4.229889888	trebokov	0.10	1.55	15.65	MEDIEVAL VILLAGE	A	367.759322	soil samples
+12181181	-26.15335601	4.62507958	trebokov	0.08	1.29	16.31	MEDIEVAL VILLAGE	A	339.0759184	soil samples
+11701097	-26.99208042	5.04106873	trebokov	0.18	2.16	11.80	FIELDS	A	338.5	soil samples
+11681099	-27.30634699	4.87467307	trebokov	0.13	1.43	10.80	FIELDS	A	410.8404292	soil samples
+11681095	-27.27165522	5.832438566	trebokov	0.21	2.32	11.26	FIELDS	A	284	soil samples
+	-24.4	3.4	dreslerova_MO					B		modern plants
+	-27.1	1.6	dreslerova_MO					B		modern plants
+	-27.5	5	dreslerova_MO					B		modern plants
+	-28.2	4.3	dreslerova_MO					B		modern plants
+	-26.9	7.6	dreslerova_MO					B		modern plants
+	-27.4	7.6	dreslerova_MO					B		modern plants
+	-26.7	5.7	dreslerova_MO					B		modern plants
+	-26	5.9	dreslerova_MO					B		modern plants
+	-27.3	7.9	dreslerova_MO					B		modern plants
+	-28.6	5.1	dreslerova_MO					B		modern plants
+	-27.9	4.8	dreslerova_MO					B		modern plants
+	-28	2.8	dreslerova_MO					B		modern plants
+	-26.1	3.7	dreslerova_MO					B		modern plants
+	-27.5	1.4	dreslerova_MO					B		modern plants
+	-27.2	4.2	dreslerova_MO					B		modern plants
+	-44.9	2.3	dreslerova_MO					B		modern plants
+	-26.2	4	dreslerova_MO					B		modern plants
+	-32.6	1.8	dreslerova_MO					B		modern plants
+	-27.6	4.7	dreslerova_MO					B		modern plants
+	-28.5	2	dreslerova_MO					B		modern plants
+	-26.4	2.5	dreslerova_MO					B		modern plants
+	-27.2	1.7	dreslerova_MO					B		modern plants
+	-28.2	2.7	dreslerova_MO					B		modern plants
+	-53.4	4	dreslerova_MO					B		modern plants
+	-27.8	4.2	dreslerova_MO					B		modern plants
+	-27.6	4.3	dreslerova_MO					B		modern plants
+	-24.9	5.6	dreslerova_MO					B		modern plants
+	-25.1	4.3	dreslerova_MO					B		modern plants
+	-28.6	-3.3	dreslerova_MO					B		modern plants
+	-29.5	-3.8	dreslerova_MO					B		modern plants
+	-23	7.4	dreslerova_MO					B		modern plants
+	-26.7	7.6	dreslerova_MO					B		modern plants
+	-25	5.7	dreslerova_MO					B		modern plants
+	-25.9	4.5	dreslerova_MO					B		modern plants
+	-27.2	-1.9	dreslerova_MO					B		modern plants
+	-28.8	-1.8	dreslerova_MO					B		modern plants
+	-23.1	6.4	dreslerova_MO					B		modern plants
+	-29.2	4.5	dreslerova_MO					B		modern plants
+	-23.5	4.8	dreslerova_AB					C		archaeobotanical samples
+	-24.1	5.5	dreslerova_AB					C		archaeobotanical samples
+	-24.3	5.1	dreslerova_AB					C		archaeobotanical samples
+	-24.8	5.1	dreslerova_AB					C		archaeobotanical samples
+	-22.7	4.4	dreslerova_AB					C		archaeobotanical samples
+	-23.1	4.9	dreslerova_AB					C		archaeobotanical samples
+	-23.1	6.2	dreslerova_AB					C		archaeobotanical samples
+	-24	6.1	dreslerova_AB					C		archaeobotanical samples
+	-25.2	5.1	dreslerova_AB					C		archaeobotanical samples
+	-25.5	3.4	dreslerova_AB					C		archaeobotanical samples
+	-22.1	6.4	dreslerova_AB					C		archaeobotanical samples
+	-22.8	4.7	dreslerova_AB					C		archaeobotanical samples
+	-23.8	4.5	dreslerova_AB					C		archaeobotanical samples
+	-23.9	5.9	dreslerova_AB					C		archaeobotanical samples
+	-25.4	5.3	dreslerova_AB					C		archaeobotanical samples
+	-23	1.9	dreslerova_AB					C		archaeobotanical samples
+	-21.8	6.7	dreslerova_AB					C		archaeobotanical samples
+	-23.1	8.6	dreslerova_AB					C		archaeobotanical samples
+	-24	7.7	dreslerova_AB					C		archaeobotanical samples
+	-24.9	6.5	dreslerova_AB					C		archaeobotanical samples
+	-24.4	7.1	dreslerova_AB					C		archaeobotanical samples
+	-23	4.7	dreslerova_AB					C		archaeobotanical samples
+	-21.8	4.5	dreslerova_AB					C		archaeobotanical samples
+	-22.9	5.5	dreslerova_AB					C		archaeobotanical samples
+	-22.4	4.7	dreslerova_AB					C		archaeobotanical samples
+	-22.6	6	dreslerova_AB					C		archaeobotanical samples
+	-22.1	4.4	dreslerova_AB					C		archaeobotanical samples
+	-23	5.8	dreslerova_AB					C		archaeobotanical samples
+	-24.1	4.5	dreslerova_AB					C		archaeobotanical samples
+	-24.6	4.7	dreslerova_AB					C		archaeobotanical samples
+	-25.3	5.6	dreslerova_AB					C		archaeobotanical samples
+	-9.9	7	dreslerova_AB					C		archaeobotanical samples
+	-22	5.4	dreslerova_AB					C		archaeobotanical samples
+	-23.5	7.6	dreslerova_AB					C		archaeobotanical samples
+	-24.4	9	dreslerova_AB					C		archaeobotanical samples
+	-23.6	4.7	dreslerova_AB					C		archaeobotanical samples
+	-23.6	10.2	dreslerova_AB					C		archaeobotanical samples
+	-22.9	5	dreslerova_AB					C		archaeobotanical samples
+	-23.4	4.3	dreslerova_AB					C		archaeobotanical samples
+	-22.2	8.5	dreslerova_AB					C		archaeobotanical samples
+	-22.5	7.2	dreslerova_AB					C		archaeobotanical samples
+	-21.2	7.3	dreslerova_AB					C		archaeobotanical samples
+	-22.5	6.6	dreslerova_AB					C		archaeobotanical samples
+	-23	7.2	dreslerova_AB					C		archaeobotanical samples
+	-23.7	7	dreslerova_AB					C		archaeobotanical samples
+	-23.8	3.7	dreslerova_AB					C		archaeobotanical samples
+	-24.6	4.6	dreslerova_AB					C		archaeobotanical samples
+	-23	6.4	deniro_plants					D		modern plants
+	-22.9	6.8	deniro_plants					D		modern plants
+	-25.1	2.4	deniro_plants					D		modern plants
+	-26.7	3	deniro_plants					D		modern plants
+	-12.6	3.5	deniro_plants					D		modern plants
+	-12.9	3.8	deniro_plants					D		modern plants
+	-13	4.4	deniro_plants					D		modern plants
+	-12.4	4.2	deniro_plants					D		modern plants
+	-12.4	4.5	deniro_plants					D		modern plants
+	-12.5	5.2	deniro_plants					D		modern plants
+	-12.5	4.9	deniro_plants					D		modern plants
+	-25	4	deniro_plants					D		modern plants
+	-25.4	6.7	deniro_plants					D		modern plants
+	-24.8	3.7	deniro_plants					D		modern plants
+	-25	2.5	deniro_plants					D		modern plants
+	-24.5	3.3	deniro_plants					D		modern plants
+	-24.6	3.7	deniro_plants					D		modern plants
+	-25	3.3	deniro_plants					D		modern plants
+	-23.8	4	deniro_plants					D		modern plants
+	-24.2	5	deniro_plants					D		modern plants
+	-25.5	5.7	deniro_plants					D		modern plants
+	-25.8	5.2	deniro_plants					D		modern plants
+	-27.3	6.8	deniro_plants					D		modern plants
+	-26.7	6.7	deniro_plants					D		modern plants
+	-25.1	5.2	deniro_plants					D		modern plants
+	-25.1	5.4	deniro_plants					D		modern plants
+	-25.3	2.7	deniro_plants					D		modern plants
+	-25	4.9	deniro_plants					D		modern plants
+	-26.7	0.6	deniro_plants					D		modern plants
+	-25.8	1.2	deniro_plants					D		modern plants
+	-23.2	0.4	deniro_plants					D		modern plants
+	-25.9	2	deniro_plants					D		modern plants
+	-24.8	2.4	deniro_plants					D		modern plants
+	-25.9	2.5	deniro_plants					D		modern plants
+	-24.8	3.2	deniro_plants					D		modern plants
+	-25.7	2.3	deniro_plants					D		modern plants
+	-25.8	2.9	deniro_plants					D		modern plants
+	-24.6	3	deniro_plants					D		modern plants
+	-24.8	3.6	deniro_plants					D		modern plants
+	-24.9	-0.2	deniro_plants					D		modern plants
+	-21.7	1.3	deniro_plants					D		modern plants
+	-25.9	4.2	deniro_plants					D		modern plants
+	-26.4	3.5	deniro_plants					D		modern plants
+	-26.9	6	deniro_plants					D		modern plants
+	-26.4	5.9	deniro_plants					D		modern plants
+	-26.5	3.9	deniro_plants					D		modern plants
+	-25.2	4.3	deniro_plants					D		modern plants
+	-26	4.5	deniro_plants					D		modern plants
+	-25.4	1.8	deniro_plants					D		modern plants
+	-25.8	2.8	deniro_plants					D		modern plants
+	-26.9	0.7	deniro_plants					D		modern plants
+	-26.1	2.2	deniro_plants					D		modern plants
+	-24.5	4	deniro_plants					D		modern plants
+	-26.2	4.5	deniro_plants					D		modern plants
+	-29.3	8.3	deniro_plants					D		modern plants
+	-25.1	3.6	deniro_plants					D		modern plants
+	-25.3	5.7	deniro_plants					D		modern plants
+	-25.7	4.4	deniro_plants					D		modern plants
+	-26.5	5.9	deniro_plants					D		modern plants
+	-25.9	4.4	deniro_plants					D		modern plants
+	-21.5	0.3	deniro_plants					D		modern plants
+	-23.6	0.6	deniro_plants					D		modern plants
+	-26.8	8.8	deniro_plants					D		modern plants
+	-24.9	1	deniro_plants					D		modern plants
+	-24.8	3.2	deniro_plants					D		modern plants
+	-25.8	4.2	deniro_plants					D		modern plants
+	-26.1	2.7	deniro_plants					D		modern plants
+	-26.6	2.4	deniro_plants					D		modern plants
+	-26.8	2.2	deniro_plants					D		modern plants
+	-10.8	7.9	deniro_plants					D		modern plants
+	-11.6	8.1	deniro_plants					D		modern plants
+	-12	8.5	deniro_plants					D		modern plants
+	-11.8	8.6	deniro_plants					D		modern plants
+	-11.6	7.4	deniro_plants					D		modern plants
+	-11.4	3.6	deniro_plants					D		modern plants
+	-11.6	2.9	deniro_plants					D		modern plants
+	-12.2	2.1	deniro_plants					D		modern plants
+	-10.3	3	deniro_plants					D		modern plants
+	-11.4	2.5	deniro_plants					D		modern plants
+	-11.3	2.3	deniro_plants					D		modern plants
+	-10.9	4.7	deniro_plants					D		modern plants
+	-11.2	3.9	deniro_plants					D		modern plants
+	-26.4	3.4	deniro_plants					D		modern plants
+	-26.9	2.7	deniro_plants					D		modern plants
+	-26.5	5.6	deniro_plants					D		modern plants
+	-28.2	2.7	deniro_plants					D		modern plants
+	-28.4	3.8	deniro_plants					D		modern plants
+	-29.2	5.5	deniro_plants					D		modern plants
+	-26.7	3.6	deniro_plants					D		modern plants
+	-28.2	0.5	deniro_plants					D		modern plants
+	-30	3.3	deniro_plants					D		modern plants
+	-27.8	2.2	deniro_plants					D		modern plants
+	-27.6	0.6	deniro_plants					D		modern plants
+	-27.1	5.4	deniro_plants					D		modern plants
+	-27.3	6.4	deniro_plants					D		modern plants
+	-25.6	13.7	deniro_plants					D		modern plants
+	-26.5	5.4	deniro_plants					D		modern plants
+	-26.3	6	deniro_plants					D		modern plants
+	-26.2	7.8	deniro_plants					D		modern plants
+	-24.5	0.2	deniro_plants					D		modern plants
+	-24.5	0.1	deniro_plants					D		modern plants
+	-25.2	-0.9	deniro_plants					D		modern plants
+	-26.6	3.4	deniro_plants					D		modern plants
+	-26.8	4.2	deniro_plants					D		modern plants
+	-28	5.8	deniro_plants					D		modern plants
+	-27.1	2.6	deniro_plants					D		modern plants
+	-25.1	4.2	deniro_plants					D		modern plants
+	-25	5	deniro_plants					D		modern plants
+	-25.6	5.8	deniro_plants					D		modern plants
+	-25	7.5	deniro_plants					D		modern plants
+	-24.4	14.1	deniro_plants					E		archaeobotanical samples
+	-11.6	19.1	deniro_plants					E		archaeobotanical samples
+	-24.2	24.4	deniro_plants					E		archaeobotanical samples
+	-26.3	20.2	deniro_plants					E		archaeobotanical samples
+	-24.6	21.8	deniro_plants					E		archaeobotanical samples
+	-23	30.6	deniro_plants					E		archaeobotanical samples
+	-27.4	14.7	deniro_plants					E		archaeobotanical samples
+	-25.4	17.1	deniro_plants					E		archaeobotanical samples
+	-24	12	deniro_plants					E		archaeobotanical samples
+	-23	32.8	deniro_plants					E		archaeobotanical samples
+	-22.9	35.9	deniro_plants					E		archaeobotanical samples
+	-24	32.2	deniro_plants					E		archaeobotanical samples
+	-23.1	28.2	deniro_plants					E		archaeobotanical samples
+	-24.9	16.7	deniro_plants					E		archaeobotanical samples
+	-23.3	19.7	deniro_plants					E		archaeobotanical samples
+	-24.9	25.3	deniro_plants					E		archaeobotanical samples
+	-22.8	29.1	deniro_plants					E		archaeobotanical samples
+	-25	36.9	deniro_plants					E		archaeobotanical samples
+	-25.2	27.6	deniro_plants					E		archaeobotanical samples
+	-25.2	33	deniro_plants					E		archaeobotanical samples
+	-25.3	22.5	deniro_plants					E		archaeobotanical samples
+	-27	8.1	deniro_plants					E		archaeobotanical samples
+	-24.9	15.2	deniro_plants					E		archaeobotanical samples
+	-27.2	15.5	deniro_plants					E		archaeobotanical samples
+	-25.3	7.3	deniro_plants					E		archaeobotanical samples
+	-24.5	14.2	deniro_plants					E		archaeobotanical samples
+	-23.1	23	deniro_plants					E		archaeobotanical samples
+	-24.5	19.8	deniro_plants					E		archaeobotanical samples
+	-24	8.2	deniro_plants					E		archaeobotanical samples
+	-21.8	14.8	deniro_plants					E		archaeobotanical samples
+	-25.7	6.9	deniro_plants					E		archaeobotanical samples
+	-24.6	9.4	deniro_plants					E		archaeobotanical samples
+	-25.6	13.5	deniro_plants					E		archaeobotanical samples
+	-26.3	11.8	deniro_plants					E		archaeobotanical samples
+	-23.6	6.5	deniro_plants					E		archaeobotanical samples
+	-23.2	16.1	deniro_plants					E		archaeobotanical samples
+	-23.9	8.4	deniro_plants					E		archaeobotanical samples
+	-24	1	deniro_plants					E		archaeobotanical samples
+	-22.8	6	deniro_plants					E		archaeobotanical samples
+	-22.6	0.6	deniro_plants					E		archaeobotanical samples
+	-24.3	19.4	deniro_plants					E		archaeobotanical samples
+	-22.2	14.2	deniro_plants					E		archaeobotanical samples
+	-25	7	deniro_plants					E		archaeobotanical samples
+	-23.1	22.3	deniro_plants					E		archaeobotanical samples
+	-26	13.5	deniro_plants					E		archaeobotanical samples
+	-23	21.2	deniro_plants					E		archaeobotanical samples
+	-22.9	14	deniro_plants					E		archaeobotanical samples
+	-23.8	14.9	deniro_plants					E		archaeobotanical samples
+	-23.3	14.4	deniro_plants					E		archaeobotanical samples
+	-23	6.5	deniro_plants					E		archaeobotanical samples
+	-23	19.1	deniro_plants					E		archaeobotanical samples
+	-21.9	16.6	deniro_plants					E		archaeobotanical samples
+	-23.4	12.1	deniro_plants					E		archaeobotanical samples
+	-23.5	12.2	deniro_plants					E		archaeobotanical samples
+	-24.3	14.8	deniro_plants					E		archaeobotanical samples
+	-26.7	20.5	deniro_plants					E		archaeobotanical samples
+	-26.4	22.1	deniro_plants					E		archaeobotanical samples
+	-23.8	13.8	deniro_plants					E		archaeobotanical samples
+	-22.1	17.4	deniro_plants					E		archaeobotanical samples
+	-21.5	8.8	deniro_plants					E		archaeobotanical samples
+	-25.4	15.3	deniro_plants					E		archaeobotanical samples
+	-25.7	30.8	deniro_plants					E		archaeobotanical samples
+	-24.7	24.9	deniro_plants					E		archaeobotanical samples
+	-25.9	25	deniro_plants					E		archaeobotanical samples
+	-25.3	21.9	deniro_plants					E		archaeobotanical samples
+	-9.8	14.6	deniro_plants					E		archaeobotanical samples
+	-10.2	21.3	deniro_plants					E		archaeobotanical samples
+	-12.8	22	deniro_plants					E		archaeobotanical samples
+	-13.9	19.4	deniro_plants					E		archaeobotanical samples
+	-15.1	26.8	deniro_plants					E		archaeobotanical samples
+	-10.5	20.2	deniro_plants					E		archaeobotanical samples
+	-10.3	19	deniro_plants					E		archaeobotanical samples
+	-10.2	17.3	deniro_plants					E		archaeobotanical samples
+	-14	46	deniro_plants					E		archaeobotanical samples
+	-10.7	37.6	deniro_plants					E		archaeobotanical samples
+	-12	24.2	deniro_plants					E		archaeobotanical samples
+	-10.1	13.4	deniro_plants					E		archaeobotanical samples
+	-13	28.2	deniro_plants					E		archaeobotanical samples
+	-12.5	34.8	deniro_plants					E		archaeobotanical samples
+	-17.3	20.5	deniro_plants					E		archaeobotanical samples
+	-9.3	12.3	deniro_plants					E		archaeobotanical samples
+	-12.1	15.1	deniro_plants					E		archaeobotanical samples
+	-10.3	25.2	deniro_plants					E		archaeobotanical samples
+	-11.1	21.5	deniro_plants					E		archaeobotanical samples
+	-9.1	26.4	deniro_plants					E		archaeobotanical samples
+	-10.8	23.5	deniro_plants					E		archaeobotanical samples
+	-10.1	14.4	deniro_plants					E		archaeobotanical samples
+	-25.3	18	deniro_plants					E		archaeobotanical samples
+	-25.4	12.5	deniro_plants					E		archaeobotanical samples
+	-23.4	8	deniro_plants					E		archaeobotanical samples
+	-25.2	22.6	deniro_plants					E		archaeobotanical samples
+	-25.4	6.6	deniro_plants					E		archaeobotanical samples
+	-26.2	18.2	deniro_plants					E		archaeobotanical samples
+	-21.8	24.7	deniro_plants					E		archaeobotanical samples
+	-25.8	9.3	deniro_plants					F		archaeobotanical samples
+	-22.7	9.7	deniro_plants					F		archaeobotanical samples
+	-22.7	5.8	deniro_plants					F		archaeobotanical samples
+	-23	9.5	deniro_plants					F		archaeobotanical samples
+	-24.7	8	deniro_plants					F		archaeobotanical samples
+	-23.1	7.3	deniro_plants					F		archaeobotanical samples
+	-24.3	11.6	deniro_plants					F		archaeobotanical samples
+	-24	8	deniro_plants					F		archaeobotanical samples
+	-24.6	7.4	deniro_plants					F		archaeobotanical samples
+	-22.4	3.2	deniro_plants					F		archaeobotanical samples
+	-24	2	deniro_plants					F		archaeobotanical samples
+	-22.4	1.8	deniro_plants					F		archaeobotanical samples
+	-25.5	1.5	deniro_plants					F		archaeobotanical samples
+	-25.4	2	deniro_plants					F		archaeobotanical samples
+	-24.8	2.1	deniro_plants					F		archaeobotanical samples
+	-23.2	0.8	deniro_plants					F		archaeobotanical samples
+	-22.8	1.2	deniro_plants					F		archaeobotanical samples
+	-22.6	2.1	deniro_plants					F		archaeobotanical samples
+	-23.3	2.3	deniro_plants					F		archaeobotanical samples
+	-21.8	0.7	deniro_plants					F		archaeobotanical samples
+	-10	7	deniro_plants					F		archaeobotanical samples
+	-9.8	7.8	deniro_plants					F		archaeobotanical samples
+	-10.6	6.8	deniro_plants					F		archaeobotanical samples
+	-9.8	6.4	deniro_plants					F		archaeobotanical samples
+	-23.5	8.9	deniro_plants					F		archaeobotanical samples
+	-24.2	13.1	deniro_plants					F		archaeobotanical samples
+	-22.9	6.3	deniro_plants					F		archaeobotanical samples
+	-23.1	6.8	deniro_plants					F		archaeobotanical samples
+	-24.2	6.3	deniro_plants					F		archaeobotanical samples
+	-24.3	7.3	deniro_plants					F		archaeobotanical samples
+	-23.3	8.6	deniro_plants					F		archaeobotanical samples
+	-24.7	7.2	deniro_plants					F		archaeobotanical samples
+	-24.2	9.9	deniro_plants					F		archaeobotanical samples
+	-25	8.2	deniro_plants					F		archaeobotanical samples
+	-24.5	7.4	deniro_plants					F		archaeobotanical samples
+	-24	7.8	deniro_plants					F		archaeobotanical samples
+	-25.4	5.6	deniro_plants					F		archaeobotanical samples
+	-25.8	6.4	deniro_plants					F		archaeobotanical samples
+	-22.8	10.2	deniro_plants					F		archaeobotanical samples
+	-26	6.1	deniro_plants					F		archaeobotanical samples
+	-26.1	6.3	deniro_plants					F		archaeobotanical samples
+	-25.8	7.5	deniro_plants					F		archaeobotanical samples
+	-26.2	6.1	deniro_plants					F		archaeobotanical samples
+	-26.2	4.9	deniro_plants					F		archaeobotanical samples
+	-18.67	13.68	Shahack_Gross					G		soil samples
+	-17.09	14.53	Shahack_Gross					G		soil samples
+	-20.14	4.74	Shahack_Gross					G		soil samples
+	-14.05	19.67	Shahack_Gross					G		soil samples
+	-19.18	17.03	Shahack_Gross					G		soil samples
+	-19.37	14.48	Shahack_Gross					G		soil samples
+	-15.02	14.46	Shahack_Gross					G		soil samples
+	-16.13	5.08	Shahack_Gross					G		soil samples
+	-14.44	12.86	Shahack_Gross					G		soil samples
+	-13.46	7.58	Shahack_Gross					G		soil samples
+	-15.27	16.31	Shahack_Gross					G		soil samples
+	-14.62	12.02	Shahack_Gross					G		soil samples
+	-14.98	6.83	Shahack_Gross					G		soil samples
+	-18.48	16.87	Shahack_Gross					G		soil samples
+	-15.84	13.88	Shahack_Gross					G		soil samples
+	-15.48	12.9	Shahack_Gross					G		soil samples
+	-14.63	7.92	Shahack_Gross					G		soil samples
+	-22	12.17	Shahack_Gross					G		soil samples
+	-20.56	10.35	Shahack_Gross					G		soil samples
+	-14.41	7.37	Shahack_Gross					H		soil samples
+	-14.32	6.06	Shahack_Gross					H		soil samples
+	-13.77	6.01	Shahack_Gross					H		soil samples
+	-13.54	8	Shahack_Gross					H		soil samples
+	-17.16	10.25	Shahack_Gross					H		soil samples
+	-14.47	4.94	Shahack_Gross					H		soil samples
+	-13.39	11.06	Shahack_Gross					H		soil samples
+	-11.88	7.5	Shahack_Gross					H		soil samples
+	-12.94	6.86	Shahack_Gross					H		soil samples
+	-14.01	7.75	Shahack_Gross					H		soil samples
+	-10.44	9.94	Shahack_Gross					H		soil samples
+	-15.95	9.94	Shahack_Gross					H		soil samples
+	-24.5	2.7	Bogaard				hulled barley	I		archaeobotanical samples
+	-24.9	1.3	Bogaard				pea	I		archaeobotanical samples
+	-23.7	5	Bogaard				einkorn wheat	I		archaeobotanical samples
+	-23.3	4.4	Bogaard				emmer wheat	I		archaeobotanical samples
+	-24.9	1.7	Bogaard				lentil	I		archaeobotanical samples
+	-24	1.5	Bogaard				grass pea	I		archaeobotanical samples
+	-23.6	4.3	Bogaard				einkorn wheat	I		archaeobotanical samples
+	-23.6	3.8	Bogaard				emmer wheat	I		archaeobotanical samples
+	-23.4	5.5	Bogaard				hulled barley	I		archaeobotanical samples
+	-24.1	7.1	Bogaard				naked barley	I		archaeobotanical samples
+	-23.9	2.9	Bogaard				pea	I		archaeobotanical samples
+	-25	1.9	Bogaard				grass pea	I		archaeobotanical samples
+	-23.8	3.6	Bogaard				einkorn wheat	I		archaeobotanical samples
+	-22.9	3.3	Bogaard				emmer wheat	I		archaeobotanical samples
+	-23.8	1.1	Bogaard				lentil	I		archaeobotanical samples
+	-25.1	1.6	Bogaard				bitter vetch	I		archaeobotanical samples
+	-23.9	5.7	Bogaard				emmer wheat	I		archaeobotanical samples
+	-24.4	5.1	Bogaard				naked barley	I		archaeobotanical samples
+	-24.1	4.6	Bogaard				einkorn	I		archaeobotanical samples
+	-24	4.2	Bogaard				emmer wheat	I		archaeobotanical samples
+	-23.1	3.5	Bogaard				lentil	I		archaeobotanical samples
+	-23.8	2.4	Bogaard				pea	I		archaeobotanical samples
+	-25	6.4	Bogaard				emmer wheat	I		archaeobotanical samples
+	-25	4.5	Bogaard				free-threshing wheat	I		archaeobotanical samples
+	-26.8	4.2	Bogaard				naked barley	I		archaeobotanical samples
+	-24.6	2.5	Bogaard				emmer wheat	I		archaeobotanical samples
+	-23	6.1	Bogaard				emmer wheat	I		archaeobotanical samples
+	-25.9	4.1	Bogaard				naked barley	I		archaeobotanical samples
+	-24.2	5.1	Bogaard				emmer wheat	I		archaeobotanical samples
+	-23.1	3.6	Bogaard				emmer wheat	I		archaeobotanical samples
+	-23.4	5.4	Bogaard				emmer wheat	I		archaeobotanical samples
